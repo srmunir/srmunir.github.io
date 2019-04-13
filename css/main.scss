@@ -1,0 +1,78 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+///////////
+// Fonts //
+///////////
+
+$base-font-family:  Helvetica, Arial, sans-serif;
+$small-font-factor: 0.875;
+
+$base-line-height:  1.5;
+$tight-line-height: 0.65;
+$slack-line-height: 1 - $tight-line-height;
+$small-line-height: $base-line-height / $small-font-factor;
+
+$base-font-size:    16px;
+$small-font-size:   $base-font-size * $small-font-factor;
+$post-title-size:   42px;
+$site-title-size:   26px;
+$post-link-size:    24px;
+
+
+////////////
+// Colors //
+////////////
+
+$text-color:        #111;
+$background-color:  #fdfdfd;
+// $brand-color:       #2a7ae2;
+$brand-color:       #5e81c5;
+$grey-color:        #828282;
+$grey-color-light:  lighten($grey-color, 40%);
+$grey-color-dark:   darken($grey-color, 25%);
+$favicon-color:     #5e81c5;
+
+
+///////////////
+// Distances //
+///////////////
+
+// $spacing-unit:      30px;
+// $spacing-unit:      $base-line-height * $base-font-size;
+$spacing-unit:      2 * $base-font-size;
+$nav-bar-height:    56px;
+$on-widescreen:     900px;
+$sidebar-width:     200px;
+// $on-laptop:         $on-widescreen - $sidebar-width;
+$on-palm:           700px;
+$on-skinny:         400px;
+
+
+////////////
+// Mixins //
+////////////
+
+// Screen size media query
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+// Screw broswer incompatibilities
+@mixin uni-transition($args) {
+    transition: $args;
+    -o-transition: $args;
+    -moz-transition: $args;
+    -webkit-transition: $args;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
