@@ -15,8 +15,7 @@ Binghamton, NY 13902
 
 **Email:**
 
-[smunir1@binghamton.edu](mailto:smunir1@binghamton.edu)
-
+smunir1 (at) binghamton (dot) edu
 
 
 
