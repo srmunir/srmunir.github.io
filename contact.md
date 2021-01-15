@@ -7,15 +7,12 @@ permalink: /contact/
 
 Department of Political Science
 
-Binghamton University
-
-4400 Vestal Parkway
-
-Binghamton, NY 13902
+Forman Christian College University (FCCU), 
+Canal Bank Road, Lahore, Pakistan
 
 **Email:**
 
-smunir1 (at) binghamton (dot) edu
+rashidmunir (at) fccollege (dot) edu (dot) pk
 
 
 
