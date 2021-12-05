@@ -17,5 +17,5 @@ exclude: [
   website.*,
   ]
 permalink: /posts/:title
-enable_disqus: true
-enable_social: true
+enable_disqus: false
+enable_social: false
