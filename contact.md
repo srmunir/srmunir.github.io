@@ -5,15 +5,11 @@ permalink: /contact/
 ---
 **Mailing Address:**
 
-Department of Political Science
-
-Forman Christian College University (FCCU), 
-Canal Bank Road, Lahore, Pakistan
+To be updated soon
 
 **Email:**
 
-rashidmunir (at) fccollege (dot) edu (dot) pk
-
+To be updated soon
 
 
 
