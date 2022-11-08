@@ -5,11 +5,11 @@ permalink: /contact/
 ---
 **Mailing Address:**
 
-To be updated soon
+To be updated
 
 **Email:**
 
-To be updated soon
+To be updated
 
 
 
