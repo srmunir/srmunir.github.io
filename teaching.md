@@ -11,5 +11,7 @@ I currently teach or have taught the following courses at the graduate and under
 - Politics in the Middle East
 - Introduction to Political Science
 - Introduction to World Politics 
+- Foreign Policy Analysis
+- Theories of International Relations
 
 You can click [here](docs/slides.pdf) for demo slides that I use for class lecture.
