@@ -5,11 +5,10 @@ permalink: /contact/
 ---
 **Mailing Address:**
 
-To be updated
-
+Department of Humanities and Social Sciences
+Lahore University of Management Sciences, Lahore
 **Email:**
 
-To be updated
-
+syed (dot) munir (at) lums (dot) edu (dot) pk
 
 
