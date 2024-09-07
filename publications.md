@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+- (Forthcoming) “May It Appease The Court: Strategic Delays in Indian Judicial Appointment.” Journal of Asian Studies (co-authored)
+  
+- (2023) "Domestic Lobbying for External Change: Textile Sector and Pakistan’s Entry into GSP Plus”. Journal of Asian and African Studies
+
 - (2023) “Perceiving Freedom: Civil Liberties and COVID-19 Vaccinations.” Political Studies Review (co-authored)
 
 - (2022) “Difficult decisions: Coercion in asymmetric security cooperation.” Asian Journal of Comparative Politics
