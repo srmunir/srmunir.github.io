@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+- (Forthcoming) “Geopolitics, Security and Imbalance in Pakistan’s Foreign Policy.” Co-authored with Rasul Baksh Rais. Book chapter under contract with the Institution of South Asian Studies. Edited by Ian Talbot and Amit Ranjan.
+  
+- (Forthcoming) “China’s Significance in Pakistani Military Strategy Journals.” Co-authored with Yunas Ahmad Samad. Book chapter under contract with the Stimson Center. Edited by Christopher Clary and Sameer Lalwani.
+  
 - (Forthcoming) “May It Appease The Court: Strategic Delays in Indian Judicial Appointment.” Journal of Asian Studies (co-authored)
   
 - (2023) "Domestic Lobbying for External Change: Textile Sector and Pakistan’s Entry into GSP Plus”. Journal of Asian and African Studies
